@@ -1,0 +1,23 @@
+Korisnièka imena i šifre za pristup sistemu:
+
+
+vesna.ninic   -  vesna
+
+aleksandra.kostic - aleksandra
+
+baki  - baki
+
+nela -  nela
+
+gaga - gaga
+
+
+
+
+
+
+
+
+
+App.config fajl sadrži konekcioni string za povezivanje na DBMS
+  
